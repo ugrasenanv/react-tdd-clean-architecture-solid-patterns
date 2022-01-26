@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    },
+    "allowJs": true,
+    "resolveJsonModule": true,
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.jsx",
+    "**/*.js"
+  ],
+  "exclude": ["src/main/test/cypress"],
+  "rules": {
+    "no-unused-vars": "off",
+  },
+}
