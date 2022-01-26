@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/brendapc/React-TDD-Clean-Architecture-SOLID-e-Patterns.svg?branch=main)](https://travis-ci.com/brendapc/React-TDD-Clean-Architecture-SOLID-e-Patterns)
-
 
 # React-TDD-Clean-Architecture-SOLID-e-Patterns
 
